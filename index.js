@@ -63,7 +63,7 @@ function doIt(userId, roomId) {
 
 function keepSendingMsg(socket) {
 	socket.emit('new message', {msg: randSentences[rand(randSentences.length)]});
-	setTimeout(function(){keepSendingMsg(socket)}, (15+rand(60))*1000);
+	setTimeout(function(){keepSendingMsg(socket)}, (30+rand(100))*1000);
 }
 
 
