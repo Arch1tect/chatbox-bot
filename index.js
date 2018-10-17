@@ -67,16 +67,16 @@ function keepSendingMsg(socket) {
 }
 
 
-doIt('bot-50', 'https://www.youtube.com/');
-doIt('bot-55', 'https://www.youtube.com/');
+// doIt('bot-50', 'https://www.youtube.com/');
+// doIt('bot-55', 'https://www.youtube.com/');
 
 
 
 doIt('bot-30', 'https://www.google.com/');
 doIt('bot-35', 'https://www.google.com/');
-doIt('bot-45', 'https://www.google.com/');
+// doIt('bot-45', 'https://www.google.com/');
 
 
-doIt('bot-10', 'https://www.facebook.com/');
-doIt('bot-15', 'https://www.facebook.com/');
+// doIt('bot-10', 'https://www.facebook.com/');
+// doIt('bot-15', 'https://www.facebook.com/');
 
